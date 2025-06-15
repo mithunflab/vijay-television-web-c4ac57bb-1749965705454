@@ -1,0 +1,18 @@
+{
+  "name": "vijay-television-website",
+  "version": "1.0.0",
+  "description": "Professional website for Vijay Television",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server .",
+    "build": "echo \"Build complete\""
+  },
+  "keywords": [
+    "website",
+    "youtube",
+    "ai-generated",
+    "professional"
+  ],
+  "author": "Vijay Television",
+  "license": "MIT"
+}
